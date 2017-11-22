@@ -1,0 +1,687 @@
+﻿abbess
+abbot
+acater
+accomptant
+accoucheur
+accoucheus
+accountant
+accoutrement maker
+ackerman
+acrobat
+actor
+actuary
+admiral
+adventurer
+alabasterer
+alchemist
+ale conner
+alewife
+almoner
+anchorite
+animal handler
+apothecary
+appraiser
+arbalestier
+arbitrator
+archbishop
+archer
+architect
+argolet
+arkwright
+armorer
+armorist
+armorsmith
+arms instructor
+arrowsmith
+artisan
+artist
+assassin
+assayer
+astrologer
+attendent
+bagger
+bailiff
+baker
+balancemaker
+bandit
+banker
+barber
+barber chirurgeon
+bard
+bargeman
+barker
+barrister
+bartender
+basketmaker
+bath attendent
+bather
+bawd
+beadle
+bear ward
+bearleader
+beekeeper
+beer seller
+beerbrewer
+beggar
+beguine
+bellfounder
+bellmaker
+besom maker
+billier
+bishop
+blacksmith
+blacksmith's striker
+bladesmith
+bleacher
+blockcutter
+boatman
+boatwright
+bodger
+bodyguard
+bodyservant
+bonecarver
+bookbinder
+bookprinter
+boothaler
+boothman
+bottelier
+bottler
+bouncer
+bower
+bowman
+bowyer
+brawler
+brazier
+breeder
+brewer
+bricker
+bricklayer
+brightsmith
+broderer
+bronzefounder
+broom dasher
+brushbinder
+buckle maker
+buffoon
+builder
+burglar
+butcher
+butler
+buttonmaker
+cabinetmaker
+calligrapher
+calligraphist
+camp cook
+camp follower
+campaner
+canaller
+candlemaker
+cannoneer
+canon
+cantor
+canvasser
+captain
+captain of the guard
+caravaneer
+carder
+cardinal
+cardmaker
+carman
+carpenter
+carriage driver
+carter
+cartier
+cartographer
+cartwright
+carver
+carwright
+castellan
+catchpole
+cathar perfect
+ceiler
+cellarer
+chainmaker
+chamberlain
+chancellor
+chancery clerk
+chandler
+chantry priest
+chaplain
+chapman
+charcoalburner
+charlatan
+cheesemaker
+chicken butcher
+chimney sweep
+chirugeon
+chirurgeon
+clark
+clergyman
+clerk
+clockmaker
+clothier
+clouter
+clown
+cobbler
+cofferer
+coiner
+coistsell
+collier
+colporteur
+combmaker
+compasssmith
+composer
+confectioner
+conman
+constable
+cook
+cooper
+coppersmith
+copyist
+cordwainer
+corsetier
+costermonger
+cottar
+courtesan
+courtier
+cowherd
+craftsman
+crier
+criminal
+crofter
+crossbowman
+curate
+currier
+cutler
+cutpurse
+dairymaid
+dancer
+dapifer
+dean
+delver
+dentist
+diamantaire
+diplomat
+disher
+ditcher
+diver
+doctor
+dog trainer
+draper
+drayman
+dresser
+drover
+drummer
+drycooper
+drywaller
+dung carter
+dyer
+eggler
+embroiderer
+emperor
+engineer
+engraver
+entertainer
+escape artist
+ewerer
+exchequer
+executioner
+fabricshearer
+falconer
+famulus
+farmer
+farrier
+feltmaker
+fence
+ferrier
+ferryman
+fewterer
+fewtrer
+fiddler
+fisherman
+fishmonger
+fletcher
+fool
+footpad
+forester
+forrester
+fortune teller
+foundryman
+fowler
+freibauer
+fresco painter
+friar
+fruiterer
+fruitier
+fueller
+fuller
+furniture maker
+furrier
+gambler
+gamekeeper
+gardener
+gardner
+gemcutter
+gilder
+girdler
+gladiator
+glass seller
+glassblower
+glasspainter
+glazier
+glover
+goatherd
+goldbeater
+goldsmith
+gong farmer
+grave digger
+gravedigger
+greengrocer
+grinder
+grocer
+grocier
+groom
+guard
+guardsman
+guide
+guild master
+gunsmith
+gunstocker
+hacker
+halberdier
+harberdasher
+harlot
+harness maker
+harper
+hatmaker
+hatter
+hawker
+hay merchant
+hayward
+hedgewarder
+herald
+herbalist
+herder
+hermit 
+hetheleder
+hobbler
+horner
+horse trainer
+horseleech
+housewife1
+hunter
+huntsman
+hurdle maker
+illuminator
+innkeeper
+interpreter
+ironmonger
+ivorist
+jailer
+janitor
+jester
+jeweler
+joiner
+jongleur
+judge
+juggler
+keeper of the privy seal
+keeper of the rolls
+keeper of the wardrobe
+king
+knacker
+knapper
+knifeman
+knifesmith
+knight
+lacemaker
+lady
+lady's maid
+lampwright
+lancier
+landed gentry
+landlord
+lanternmaker
+lapidary
+latoner
+launderer
+laundress
+lawyer
+leadworker
+leatherworker
+leech
+legerdemainist
+librarian
+lighter man
+lighterman
+limner
+linen armorer
+linen draper
+linener
+linenspinner
+liner
+link boy
+link man
+locksmith
+logger
+lord high steward
+lorimer
+lutemaker
+lutenist
+luthier
+maid
+maidservant
+mailer
+mailmaker
+malemaker
+mapmaker
+mariner
+marler
+marleywoman
+marshal
+mason
+master builder
+master of hounds
+master of the revels
+mathematician
+meat butcher
+meistersinger
+mercenary
+mercer
+merchant
+merchant taylor
+messenger
+metalsmith
+metropolitan bishop
+midwife
+militia
+milkmaid
+miller
+milliner
+miner
+miniaturist
+minnesinger
+minstrel
+minter
+mintmaster
+mirrorer
+molecatcher
+money lender
+moneyer
+monk
+mummer
+musician
+nailmaker
+nakerer
+napier
+navigator
+nedeller
+needlemaker
+netmaker
+noble
+nobleman
+novitiate
+nun
+nurse
+oil merchant
+oilmaker
+old clothes dealer
+ostiary
+ostler
+oynter
+oyster raker
+oysterer
+page
+painter
+palmer
+panter
+paperer
+papermaker
+parchmenter
+pardoner
+parish priest
+parker
+pasteler
+pastrycook
+pattenmaker
+patternmaker
+pavier
+pavior
+pavyler
+peasant
+peddler
+perfumer
+pewterer
+philosopher
+physician
+pickpocket
+pie seller
+pikeman
+pilgrim
+pinder
+pinmaker
+pioneer
+piper
+pissprophet
+plasterer
+plattner
+player
+playwright
+plowman
+plumber
+plumer
+poacher
+poet
+pointer
+poleturner
+pope
+porter
+pot mender
+potboy
+potter
+poulter
+poulterer
+priest
+primate
+prince
+printer
+privycleaner
+procurator
+professor
+prostitute
+purse maker
+purser
+pursuivant
+quack
+quarryman
+quartermaster
+quilter
+rag and bone man
+ragpicker
+raker
+rancher
+rat catcher
+reaper
+rectifier
+redsmith
+reedmaker
+reeve
+restaurateur
+riverboat pilot
+riveter
+robber
+roofer
+ropemaker
+roper
+royal food taster
+rugmaker
+rugweaver
+sacristan
+saddler
+sage
+sail maker
+sailmaker
+sailor
+saltboiler
+salter
+sapper
+sawbones
+sawyer
+scabbard maker
+scavenger
+scholar
+scout
+scribe
+scrivener
+scullion
+sculptor
+scythesmith
+sea captain
+seamstress
+seaweed harvester
+seneschal
+serf
+sergeant
+sergeant at arms
+servant
+server
+sexton
+shearer
+sheepshearer
+shepherd
+sheriff
+shill
+shingler
+ship provisioner
+shipchandler
+ship's captain
+shipwright
+shoemaker
+shrimper
+siege engineer
+siever
+silk carder
+silk dresser
+silk dyer
+silk maker
+silk mercer
+silk snatcher
+silkmaid
+silversmith
+singer
+skald
+skinner
+slaver
+smelter
+smith
+soldier
+solicitor
+spearman
+sperviter
+spice merchant
+spicer
+spinner/spinster
+spooner
+spurrer
+spy
+squire
+stable hand
+stablehand
+stabler
+stainer
+stationer
+steward
+stewsman
+stillroom
+stonecarver
+stonecutter
+stonemason
+storyteller
+stringer
+summoner
+surgeon
+swineherd
+swordsmith
+tailor
+tallowchandler
+tanner
+tapestrymaker
+tapicer
+tapster
+tasseler
+taverner
+tavernkeeper
+tax collector
+taylor
+teacher
+teamster
+tenter
+thacker
+theologian
+thimblerigger
+thonger
+threadmaker
+thresher
+thug
+tile burner
+tile maker
+tile theeker
+tillerman
+tinker
+tinsmith
+toad doctor
+toll keeper
+town crier
+trader
+transient
+trapper
+treasurer
+treen maker
+trencherman
+trobairitz
+troubadour
+tumbler
+turner
+tutor
+typefounder
+unguentary
+upholder
+urchin
+userer
+vagabond
+vaginarius
+valet
+veterinarian
+viking
+vintner
+waferer
+wagoner
+waller
+watchman
+water carrier
+waterman
+waterseller
+wattler
+waxchandler
+weaponsmith
+weaver
+webber
+weeper
+weirkeeper
+wetnurse
+wheeler
+wheelwright
+wine seller
+wiredrawer
+wood seller
+woodcarver
+woodcutter
+woodmonger
+woodturner
+woodward
+wool stapler
+woolcomber
+woolman
+wrestler
+writer
+yeoman
