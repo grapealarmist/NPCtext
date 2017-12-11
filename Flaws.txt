@@ -1,115 +1,228 @@
-Has a forbidden love
-Susceptible to romance
-Enjoys decadent pleasures
-Arrogant
-Envies another creatures possessions
-Envies another creatures station
-Overpowering greed
-Prone to rage
-Has a powerful enemy
-Specific phobia
-Shameful or scandalous history
-Secret crime or misdeed
-Possession of forbidden lore
-Foolhardy bravery
-Does not understand social situations
-Is overly critical
-Is easily tempted by food
-Is easily tempted by romance
-Is easily tempted by drink
-Has a gambling problem
+Absent minded
+Abusive
+Abusive to those they care about
+Addict
 Addicted to a cheap drug
 Addicted to an expensive drug
-Trusts no one
-Abusive to those they care about
-Absent minded
-Devoid of direction or purpose
-Extremely anxious
-Powerfully arrogant
-Has a bad habit
-Has a big mouth
-Overly blunt
-Takes undue liberties
+Aimless
+Alcoholic
+Aloof
+Always envious of others
+Anxious
+Arrogant
+Audacious
+Backstabber
+Bigmouth
+Bigot
+Blunderer
+Blunt
+Boastful
+Bold
+Brazen
+Callous
+Can not stop eating
+Cantankerous
+Capricious
+Captious
 Childish
+Clumsy
+Completely dependent on others
+Conceited
+Covetous
+Cowardly
+Cranky
+Crazy
+Crooked
+Crotchety
 Cruel
-Completely dependant on others
+Crusty
+Cursed
+Daydreamer
+Deceitful
+Deceptive
+Deranged
+Devoid of direction or purpose
+Discontented
 Dishonest
 Disloyal
-Has no order in their life
-Can not stop eating
-Rampantly egotistical
-Always envious of others
+Disturbed
+Does not understand social situations
+Drools
+Drug addict
+Dubious
+Dyslexic
+Egotistic
+Egotistical
+Emotional
+Enjoys decadent pleasures
+Envies another creatures possessions
+Envies another creatures station
+Envious
 Erratic
+Excessively emotional
+Excitable
+Extremely anxious
 Fanatical
+Fickle
 Fickle and unstable
 Fierce
 Finicky
 Fixated
-Very flirty
+Flirt
+Foolhardy
+Foolhardy bravery
+Forgetful
+Frivolous
+Gambling addict
+Gluttonous
 Gruff
 Gullible
+Habitual liar
+Hangry
+Hard hearted
+Has a bad habit
+Has a big mouth
+Has a forbidden love
+Has a gambling problem
+Has a powerful enemy
+Has no order in their life
+Headstrong
 Hedonistic
-Frivolous
+Heedless
+High strung
 Humorless
 Hypocritical
-Lazy idealist
+Idealist
 Idiot
+Idiotic
+Ignorant
+Ill tempered
+Illiterate
 Immature
 Impatient
+Impious
+Impish
+Inattentive
 Incompetent
 Indecisive
 Indifferent
+Infamous
+Insane
+Insatiable 
 Intolerant
-Judgemental
-Clumsy
+Irritable
+Is easily tempted by drink
+Is easily tempted by food
+Is easily tempted by romance
+Is overly critical
+Judgmental
+Jumpy
+Klutz
+Languid
+Lazy
+Lazy idealist
 Lewd
-Habitual liar
+Liar
+Lustful
+Martyr
 Masochist
 Meddlesome
 Meek
 Megalomaniac
+Meticulous
+Moody
 Naive
+Narcissistic
 Nervous
+Neurotic
+Nose picker
 Nosey
 Obsessive
+Oppressor
+Ornery
 Over ambitious
+Overambitious
 Overconfident
-Excessively emotional
+Overemotional
+Overly blunt
+Overpowering greed
+Overprotective
+Overzealous
+Pampered
 Paranoid
-Cantankerous
-Cranky
+Peevish
 Perfectionist
 Pessimist
 Pest
-Terribly afraid of cats
-Terribly afraid of dogs
-Terribly afraid of spiders
-Terribly afraid of birds
-Terribly afraid of monsters
-Terribly afraid of elves
-Terribly afraid of gnomes
+Phobic
+Picky
+Pompous
+Possession of forbidden lore
+Powerfully arrogant
+Predictable
+Prone to rage
+Proud
+Rampantly egotistical
+Rebellious
+Reckless
+Remorseless
+Rigorous
+Rough
+Sadist
+Sadomasochist
+Sanctimonious
 Sarcastic
-Sceptic
+Secret crime or misdeed
+Seducer
+Self righteous
 Selfish
-Martyr
 Senile
-Crazy
+Sensitive
+Sex addict
+Shallow
+Shameful or scandalous history
+Shy
+Skeptic
 Smart ass
+Smells terrible
+Snob
+Soft hearted
+Solemn
+Specific phobia
 Spineless
+Spiritless
 Spiteful
 Spoiled
 Squeamish
 Stubborn
 Superstitious
+Surly
+Susceptible to romance
 Tactless
+Takes undue liberties
 Temperamental
+Terribly afraid of birds
+Terribly afraid of cats
+Terribly afraid of dogs
+Terribly afraid of elves
+Terribly afraid of gnomes
+Terribly afraid of monsters
+Terribly afraid of spiders
+Testy
 Theatrical
 Timid
-Toungue tied
+Tongue tied
+Treasonous
 Troublemaker
+Trusts no one
+Uncertain of anything
 Unlucky
 Unpredictable
 Untrustworthy
+Vain
+Vengeful
+Volatile
 Weak willed
 Withdrawn
-Zealous and fanatical
+Zealot
+Zealous
